@@ -1,0 +1,35 @@
+body {
+    background-color: tan;
+}
+
+h1 {
+}
+
+img {
+    width: 410px;
+    height: 300px;
+    display: inline-block;
+    margin: 415px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.main-header {
+    background-color: lightgray;
+    display: block;
+    margin-left: 380px;
+    margin-right: 400px;
+    padding: 150px; 
+    padding-top: 1px;
+    padding-bottom: 1px;
+} 
+
+.main-list {
+    display: block;
+    margin-left: 380px;
+    margin-right: 400px;
+    background-color: #FC9A85;
+    padding: 150px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
