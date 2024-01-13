@@ -1,0 +1,73 @@
+body {
+    background-color: aquamarine;
+}
+
+.description {
+    background-color: blue;
+    display: block;
+    border: 5px;
+    margin-left: 380px;
+    margin-right: 400px;
+    padding: 150px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+
+img {
+    display: inline-block;
+    width: 410px;
+    height: auto;
+    border: 5px;
+    margin: 415px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ingredients {
+    background-color: grey;
+    display: inline-block;
+    border: 5px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+/* stuck on figuring out on how to stack elements side by side */
+}
+
+.main {
+
+}
+
+.steps {
+    background-color: skyblue;
+    display: inline-block;
+    border: 5px;
+    padding: 200px;
+    margin: 410px;
+    margin-top: auto;
+}
+
+.summary {
+    background-color: green;
+    display: block;
+    border: 5px;
+    margin-left: 380px;
+    margin-right: 400px;
+    padding: 150px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+
+.title {
+    background-color: pink;
+    display: block;
+    border: 5px;
+    margin-left: 380px;
+    margin-right: 400px;
+    padding: 150px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
