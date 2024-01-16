@@ -25,27 +25,32 @@ img {
 }
 
 .ingredients {
+    width: 400px;
     background-color: grey;
-    display: inline-block;
-    border: 5px;
-    padding: 50px;
-    margin-left: 50px;
-    margin-top: auto;
-    margin-bottom: auto;
-/* stuck on figuring out on how to stack elements side by side */
+    border: 2px solid;
+    padding: 10px;
+    margin: 380px;
+    margin-top: 0px;
+    margin-right:auto;
+    margin-bottom: 0px;
+    
 }
 
 .main {
-
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
 }
 
 .steps {
     background-color: skyblue;
-    display: inline-block;
-    border: 5px;
-    padding: 200px;
-    margin: 410px;
-    margin-top: auto;
+    padding: 50px;
+    border: 2px solid;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: auto;
 }
 
 .summary {
@@ -71,3 +76,6 @@ img {
     padding-bottom: 1px;
 }
 
+.parent {
+    display: inline-flex;
+}
